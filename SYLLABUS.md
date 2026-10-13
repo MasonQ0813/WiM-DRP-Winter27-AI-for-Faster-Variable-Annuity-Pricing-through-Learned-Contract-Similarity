@@ -49,13 +49,13 @@ By the end of Week 8, each student should be able to:
 
 ## 3. Prerequisites and accessibility
 
-**Required: None.**
+**Required prerequisites: None.**
 
-**Recommended, but not required:** **MATH 127** (Calculus 1 for the Sciences) **or MATH 137** (Calculus 1 for Honours Mathematics) for functions and derivatives; **MATH 106** (Applied Linear Algebra 1) **or MATH 136** (Linear Algebra 1 for Honours Mathematics) for vectors, matrices, and distances. **MATH 128** (Calculus 2 for the Sciences) or **MATH 138** (Calculus 2 for Honours Mathematics) may help with integration but is optional.
+**Recommended (but not required):** Familiarity with (1) **basic Python programming**, including variables, functions, loops, and working with data; (2) **introductory machine learning**, especially regression, nearest neighbours, and clustering; (3) **probability**, such as **STAT 230 (Probability)**, to understand random variables, distributions, expectations, and Monte Carlo simulation; and (4) **investments**, such as **ACTSC 372 (Investment Science and Corporate Finance)**, to understand financial markets, returns, risk, and basic derivatives.
 
-**No previous actuarial science, finance, statistics, machine learning, research, or Python course is required.** Each notebook introduces the necessary ideas in context and supplies working reference code. Students from different academic backgrounds are welcome. Curiosity, steady participation, and a willingness to ask questions matter more than completed courses.
+**Students do not need to have completed any of these courses or know all four topics.** This project welcomes students with little or no prior actuarial science or research experience. The weekly Jupyter notebooks introduce essential finance, probability, machine learning, and Python concepts through guided explanations and executable examples. Some calculus and linear algebra may be helpful, but they are not required. Interest in learning, curiosity, and collaborative effort matter more than prior coursework.
 
-These recommendations concern **preparation for this research project**, not waivers of the university's enrolment rules for the courses themselves. Course titles are based on the [Waterloo 2023–24 MATH course calendar](https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html).
+The course names refer to the Waterloo 2023–24 calendars: [STAT](https://ucalendar.uwaterloo.ca/2324/COURSE/course-STAT.html) and [ACTSC](https://ucalendar.uwaterloo.ca/2324/COURSE/course-ACTSC.html). These are **recommendations for this project only**, not admission or university course-enrolment requirements.
 
 ## 4. Materials, technology, and how to work
 
