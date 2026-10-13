@@ -12,13 +12,17 @@
 
 ## Welcome — no previous experience required
 
-This undergraduate project introduces **actuarial science, probability, Python, and machine learning** through guided Jupyter notebooks. Students who have never taken an actuarial science, finance, statistics, or machine-learning course are welcome.
+This undergraduate project introduces **actuarial science, probability, Python, and machine learning** through eight guided Jupyter notebooks. **No classes are required** for students to join.
 
-- **Required courses:** None.
-- **Recommended, not required:** **MATH 127 or MATH 137** (introductory calculus) and **MATH 106 or MATH 136** (introductory linear algebra). **MATH 128 or MATH 138** may also help, but are optional.
-- **Coding experience:** No prior Python course is required; each notebook includes theory, demonstrations, reading prompts, and starter code.
+**Recommended preparation (all optional):**
+- **Basic Python coding:** variables, loops, functions, and working with data.
+- **Basic machine learning:** regression, nearest neighbours, and clustering.
+- **Probability:** knowledge comparable to **STAT 230 (Probability)**, including random variables, distributions, and expected values.
+- **Investments:** knowledge comparable to **ACTSC 372 (Investment Science and Corporate Finance)**, including risk, returns, and introductory derivatives.
 
-For the complete 250-word-maximum application wording, see the [Prerequisites and accessibility section](SYLLABUS.md#3-prerequisites-and-accessibility) in the syllabus. The official Waterloo course descriptions are [here](https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html).
+You do **not** need to have taken STAT 230 or ACTSC 372, nor to know all four topics. Each notebook builds the necessary skills using explanations, worked code, and exercises. Calculus and linear algebra are useful additional background, not prerequisites.
+
+For the application-ready statement, see [Prerequisites and accessibility](SYLLABUS.md#3-prerequisites-and-accessibility). See the university's official [STAT course descriptions](https://ucalendar.uwaterloo.ca/2324/COURSE/course-STAT.html) and [ACTSC course descriptions](https://ucalendar.uwaterloo.ca/2324/COURSE/course-ACTSC.html).
 
 ## What will we research?
 
